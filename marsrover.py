@@ -1,3 +1,4 @@
+# To ensure full functionality, make sure the txt file does not have extra lines than it should
 # The inputs for the rover will be captured via a text file which is found attached labelled "roverinput.txt"
 fileName = "roverinput.txt"
 
